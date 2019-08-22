@@ -1,6 +1,6 @@
 
 
-ローカルで作成したdevelop-#1に追記しました。
+ローカルで作成したimplement-app-baseで追記しました。
 
 
 [50 分でわかるテスト駆動開発 | de:code 2017 | Channel 9](https://channel9.msdn.com/Events/de-code/2017/DO03)
